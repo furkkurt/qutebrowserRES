@@ -2,7 +2,7 @@
   border-color: #909396 !important;
 }
 a {
-  color: #CC3333 !important;
+  color: #8ad !important;
 }
 a:visited {
   color: #909396 !important;
@@ -25,7 +25,7 @@ pre {
   color: #909396 !important;
 }
 #header {
-  background-color: #2e2e2e;
+  background-color: #777;
 }
 #sr-header-area {
   background-color: #2e2e2e !important;
@@ -49,7 +49,7 @@ pre {
   background-color: #2e2e2e !important;
 }
 .thing .title {
-  color: #909396 !important;
+  color: #DEDEDE !important;
 }
 div.md {
   color: #909396 !important;
@@ -70,7 +70,7 @@ body.comment {
   background-color: #262626 !important;
 }
 .listing-chooser .intro {
-  background-color: #5e6263 !important;
+  background-color: #393939 !important;
   color: #a6aaab !important;
 }
 .listing-chooser .grippy {
@@ -80,14 +80,14 @@ body.comment {
   border-right: none !important;
 }
 .listing-chooser li {
-  background-color: #5e6263 !important;
+  background-color: #393939 !important;
 }
 .listing-chooser li.selected {
-  background-color: #5e6263 !important;
+  background-color: #393939 !important;
   box-shadow: none;
 }
 .listing-chooser li a {
-  color: #909396 !important;
+  color: #8ad !important;
 }
 .listing-chooser li a .description {
   color: #a6aaab !important;
